@@ -1,5 +1,4 @@
 ﻿/*
- * Assist Control
  *
  * Copyright (C) 2018 DesApli - Anthony Gonzales
  *
